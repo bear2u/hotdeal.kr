@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-11",
+  "items": [
+    {
+      "name": "배대감 알룰로스 바닐라시럽",
+      "spec": "저당·저칼로리 · 530g × 1개",
+      "price": 4190,
+      "store": "쿠팡",
+      "url": "https://www.coupang.com/vp/products/8582711069?itemId=24878833198&vendorItemId=91885645473",
+      "sourceUrl": "https://arca.live/b/hotdeal/185391975",
+      "postedAt": "2026-10-09",
+      "checkedAt": "2026-10-11T12:15:00+09:00",
+      "status": "soldout"
+    },
+    {
+      "name": "나가타니엔 김맛 오차즈케",
+      "spec": "8p 48g × 1개",
+      "price": 5000,
+      "store": "쿠팡",
+      "url": "https://www.coupang.com/vp/products/399867?itemId=26521836256&vendorItemId=95614254640",
+      "sourceUrl": "https://arca.live/b/hotdeal/185410271",
+      "postedAt": "2026-10-09",
+      "checkedAt": "2026-10-11T12:15:00+09:00",
+      "status": "ok"
+    },
+    {
+      "name": "비스코티 강아지 비스켓",
+      "spec": "과일맛 · 800g × 1개",
+      "price": 9150,
+      "store": "쿠팡",
+      "url": "https://www.coupang.com/vp/products/8595395590?itemId=19887721&vendorItemId=3029113395",
+      "sourceUrl": "https://arca.live/b/hotdeal/185406268",
+      "postedAt": "2026-10-09",
+      "checkedAt": "2026-10-11T12:15:00+09:00",
+      "status": "changed",
+      "currentPrice": 10760,
+      "currentPriceNote": "와우 쿠폰가"
+    },
+    {
+      "name": "농심 생생 신툼바 떡볶이면",
+      "spec": "252g × 5개",
+      "price": 10500,
+      "store": "G마켓",
+      "url": "https://item.gmarket.co.kr/Item?goodscode=4865018446",
+      "sourceUrl": "https://arca.live/b/hotdeal/185404395",
+      "postedAt": "2026-10-09",
+      "checkedAt": "2026-10-11T12:44:00+09:00",
+      "status": "changed",
+      "currentPrice": 11250
+    },
+    {
+      "name": "델포유 오븐에 구운 십센치 파운드",
+      "spec": "5가지맛 20개",
+      "price": 11200,
+      "store": "G마켓",
+      "url": "https://item.gmarket.co.kr/Item?goodscode=2083147900",
+      "sourceUrl": "https://arca.live/b/hotdeal/185404339",
+      "postedAt": "2026-10-09",
+      "checkedAt": "2026-10-11T12:44:00+09:00",
+      "status": "changed",
+      "currentPrice": 13560
+    },
+    {
+      "name": "포스트 오곡코코볼 시리얼",
+      "spec": "1kg × 2개 + 그래놀라 30g × 3개 증정",
+      "price": 12170,
+      "store": "옥션",
+      "url": "https://itempage3.auction.co.kr/DetailView.aspx?ItemNo=F383054694",
+      "sourceUrl": "https://arca.live/b/hotdeal/185398157",
+      "postedAt": "2026-10-09",
+      "checkedAt": "2026-10-11T12:44:00+09:00",
+      "status": "changed",
+      "currentPrice": 19320
+    },
+    {
+      "name": "자연은 더말린 제로 애플망고",
+      "spec": "500ml × 20개",
+      "price": 12320,
+      "store": "쿠팡",
+      "url": "https://www.coupang.com/vp/products/7164022231?itemId=17903607840&vendorItemId=85189440218",
+      "sourceUrl": "https://arca.live/b/hotdeal/185395387",
+      "postedAt": "2026-10-09",
+      "checkedAt": "2026-10-11T12:15:00+09:00",
+      "status": "changed",
+      "currentPrice": 16000
+    },
+    {
+      "name": "새우깡 8봉 + 매운새우깡 8봉",
+      "spec": "농심 · 총 16봉",
+      "price": 15660,
+      "store": "G마켓",
+      "url": "https://item.gmarket.co.kr/Item?goodscode=4076233103",
+      "sourceUrl": "https://arca.live/b/hotdeal/185406375",
+      "postedAt": "2026-10-09",
+      "checkedAt": "2026-10-11T12:44:00+09:00",
+      "status": "ok"
+    },
+    {
+      "name": "오뚜기 작은컵 라면 4종",
+      "spec": "진매·참깨·진순·열라면 각 6개",
+      "price": 16640,
+      "store": "G마켓",
+      "url": "https://item.gmarket.co.kr/Item?goodscode=4756779699",
+      "sourceUrl": "https://arca.live/b/hotdeal/185400056",
+      "postedAt": "2026-10-09",
+      "checkedAt": "2026-10-11T12:44:00+09:00",
+      "status": "soldout"
+    },
+    {
+      "name": "무뚝뚝감자칩 + 통크",
+      "spec": "감자칩 60g × 10 · 통크 45g × 10",
+      "price": 18984,
+      "store": "오늘의집",
+      "url": "https://store.ohou.se/goods/3947549",
+      "sourceUrl": "https://arca.live/b/hotdeal/185390004",
+      "postedAt": "2026-10-09",
+      "checkedAt": "2026-10-11T12:44:00+09:00",
+      "status": "changed",
+      "currentPrice": 20169,
+      "currentPriceNote": "쿠폰가"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+/* 숏츠 영상과 같은 톤: 크림 배경 · 핫오렌지 가격 · 노랑 포인트 */
+@theme {
+  --color-cream: #fff3e2;
+  --color-ink: #1e1510;
+  --color-muted: #6f5a4b;
+  --color-hot: #d93710;
+  --color-hot-deep: #b52a08;
+  --color-sun: #ffc93c;
+  --font-sans: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+}
+
+body {
+  background: var(--color-cream);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  word-break: keep-all;
+}
